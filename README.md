@@ -2,7 +2,7 @@
 Team Final Project for CMP_7330
 
 Team members:
- Xinhui Li(Xinhui54)
+ Xinhui Li(Xinhui54); Yifu Yao(Leowisd)
 
 Languages we want to make comparison:
  Java
