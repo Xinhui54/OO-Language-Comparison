@@ -8,5 +8,5 @@ Languages we want to make comparison:
  Java
  Python
 
-See your work here: https://github.com/Xinhui54/OO-Language-Comparison.git/comparison.md
+See your work here: https://github.com/Xinhui54/OO-Language-Comparison.git/Comparison.md
 
