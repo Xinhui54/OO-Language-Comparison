@@ -8,5 +8,5 @@ Languages we want to make comparison:
  Java
  Python
 
-See your work here: Comparison file
+See your work here: OO-Language-Comparison/Comparison.md
 
